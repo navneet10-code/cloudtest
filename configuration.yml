@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: 'ddumb92d7'
+  api_key: '891465626576572'
+  api_secret: 'HRvqbYtHdPGtrWK1W31Ev8Qr0Zc'
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: 'ddumb92d7'
+  api_key: '891465626576572'
+  api_secret: 'HRvqbYtHdPGtrWK1W31Ev8Qr0Zc'
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: 'ddumb92d7'
+  api_key: '891465626576572'
+  api_secret: 'HRvqbYtHdPGtrWK1W31Ev8Qr0Zc'
+  enhance_image_tag: true
+  static_image_support: false
